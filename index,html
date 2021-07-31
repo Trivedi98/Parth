@@ -1,2 +1,16 @@
-<h1>edusera</h1>
-<p>my name is Parth Trivedi</p>
+<html>
+    <head>
+        <title>DOCUMENTS</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>Edusera Classes</h1>
+        <p>my name is Parth Trivedi</p>
+        <p>And i am learning chatbot</p>
+     <ul>
+     <li>i am footballer </li>
+     <li>i am dancer </li>
+     </ul>   
+     </body>
+</html>
